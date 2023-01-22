@@ -1,0 +1,18 @@
+.note
+{
+  font-size: 15px;
+  color: rgb(0, 98, 255);
+
+}
+
+body
+{
+  background-size: cover;
+}
+
+Canvas
+{
+  border: 5px dashed blueviolet;
+  border-radius: 20px;
+  margin-top:10px;
+}
